@@ -1,8 +1,10 @@
 # ds0223-capstone-project-DSMarket
 
 This is the END-TO-END Machine Learning project (Retail), Capstone project of the Master in Data Science from Nuclio Digital School.
-* Data preprocessing
-* Data anlysis
-* Item clusterization
-* Stock Prediction 
-* Study Case: API Implementation.
+* 0. Data preprocessing
+* 1. Data Anlysis
+* 2. Item Clusterization
+* 3. Stock Prediction 
+* 4. Study Case: API Implementation
+
+ A PowerBI dashboard was used to present our results in front of the Tutors and academic fellows.
